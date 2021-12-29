@@ -29,8 +29,9 @@
 - DatePicker 라이브러리 커스텀
 - 초기화 기능 구현
 
-#### 기능구현 영상
-[![Video Label](https://i9.ytimg.com/vi/skNw_uGvvBw/mq1.jpg?sqp=CODTsY4G&rs=AOn4CLA-5zz4OnTnuzojGjuLaJBojMJ7vA](https://www.youtube.com/watch?v=skNw_uGvvBw)
+#### 기능구현 영상 링크
+[![Video Label](https://img.youtube.com/vi/skNw_uGvvBw/0.jpg)](https://www.youtube.com/watch?v=skNw_uGvvBw)
+
 
 4. ####  제품 상세 (양주영/ 강태준,박재용)
 
@@ -58,5 +59,6 @@ Git, Github
 
 
 
-## 프로젝트 구현 화면
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/JAhBE9hq6cA)
+## 프로젝트 구현 화면 링크
+
+[![Video Label](https://img.youtube.com/vi/JAhBE9hq6cA/0.jpg)](https://youtu.be/JAhBE9hq6cA)
