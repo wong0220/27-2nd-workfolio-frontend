@@ -29,6 +29,7 @@
 - DatePicker 라이브러리 커스텀
 - 초기화 기능 구현
 
+####기능구현 영상
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=skNw_uGvvBw)
 
 4. ####  제품 상세 (양주영/ 강태준,박재용)
