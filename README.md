@@ -40,22 +40,22 @@
 
 ## 사용된 기술 & 툴
 #### FRONT_END
-React
-styled component
-Prettier
-ESlint
+- React
+- styled component
+- Prettier
+- ESlint
 
 #### BACK_END
-Python
-Django frame work
-MySQL
-Docker
+- Python
+- Django frame work
+- MySQL
+- Docker
 
 #### COMMON
-Notion
-Trello
-Slack
-Git, Github
+- Notion
+- Trello
+- Slack
+- Git, Github
 
 
 
