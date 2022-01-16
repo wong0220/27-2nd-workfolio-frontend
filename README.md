@@ -29,7 +29,7 @@
 - DatePicker 라이브러리 커스텀
 - 초기화 기능 구현
 
-#### 기능구현 영상 링크
+#### 기능구현 영상 링크 ↓ Click ↓
 [![Video Label](https://img.youtube.com/vi/skNw_uGvvBw/0.jpg)](https://www.youtube.com/watch?v=skNw_uGvvBw)
 
 
