@@ -59,6 +59,6 @@
 
 
 
-## 프로젝트 구현 화면 링크
+## 프로젝트 구현 화면 링크 ↓ Click ↓
 
 [![Video Label](https://img.youtube.com/vi/JAhBE9hq6cA/0.jpg)](https://youtu.be/JAhBE9hq6cA)
