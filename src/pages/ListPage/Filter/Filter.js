@@ -86,7 +86,7 @@ function Filter({
       } else {
         setThemeOptions(['전체선택']);
       }
-    } else if (themeOption.includes(selectedThemeName)) {
+    }  else if (themeOption.includes(selectedThemeName)) {
       setThemeOptions(themeOption.filter(el => el !== selectedThemeName));
     } else {
       setThemeOptions([...themeOption, selectedThemeName]);

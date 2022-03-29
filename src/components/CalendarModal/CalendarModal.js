@@ -41,10 +41,7 @@ function CalendarModal({
       });
   };
 
-  console.log(endDate);
-  // console.log(countList);
-  // console.log(selectedIndex);
-
+  
   return (
     <ModalWrapper>
       <ModalInner>
