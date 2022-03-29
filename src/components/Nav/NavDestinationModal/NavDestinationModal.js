@@ -10,7 +10,6 @@ function DestinationModal({ closeModal }) {
   const navigate = useNavigate();
 
   const handleInputValue = e => {
-    console.log(123);
     const { value } = e.target;
     setInputValue(value);
   };
